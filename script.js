@@ -519,7 +519,7 @@ function finalSubmit() {
 
     // Existing Google Apps Script Web App URL
     let url =
-        "https://script.google.com/macros/s/AKfycbzK7knfcrRriMv4L18xEaNQeVAs26PZ4KhW7IRWGz2_P7KMGtM8PY6tbjlDm63R7sNI/exec";
+        "https://script.google.com/macros/s/AKfycbxLKMqGDv4MTdzlK_Sjt1M-DYxSHaPlNdut1fMlWw4YwUJkPqDi_TmDIHVPQfLG5pA4/exec";
 
     url += "?name=" + encodeURIComponent(name);
     url += "&mobile=" + encodeURIComponent(mobile);
